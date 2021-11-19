@@ -12,4 +12,9 @@ Deskripsi file:
 
 6. **Praktik Form dengan Berbagai Event**<br>Event yang diterapkan antara lain: copy, paste.
 
-7. **Membuat List Todo App**<br>Fiturnya antara lain: menambah list todo, menghapus list todo, melakukan checklist pada list todo, undo daftar list yang sudah dikerjakan kembali ke kolom daftar yang belum dikerjakan.  
+7. **Membuat List Todo App**<br>Fiturnya antara lain: menambah list todo, menghapus list todo, melakukan checklist pada list todo, undo daftar list yang sudah dikerjakan kembali ke kolom daftar yang belum dikerjakan. Data sudah tersimpan di web storage. Pada proyek ini telah mengimplementasikan local storage dan session storage.
+
+8. **Implementasi Local Storage**
+9. **Implementasi Session Storage**
+10. **Permainan Tebak Angka**<br>Terdiri dari tiga angka yaitu, 1, 2, dan 3. Pengguna diminta untuk menebak kombinasi angka yang ditetapkan oleh komputer. Jumlah betul menebak, dan gagal menebak terbanyak dalam satu kali permainan disimpan pada local storage. Sedangkan jumlah gagal per permainan disimpan pada session storage.
+11. **Menyimpan Data User**<br>Input nama, domisili disimpan dalam daftar. 
